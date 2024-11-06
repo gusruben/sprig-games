@@ -1,1 +1,0 @@
-Modals, popups, and similar things. These files tend to contain a lot of horrible logic that makes bad assumptions and really needs to be refactored at some point in the future.

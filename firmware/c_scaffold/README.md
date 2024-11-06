@@ -1,1 +1,0 @@
-# Sprig C Firmware Scaffold
