@@ -6,17 +6,17 @@ This is a small collection of all the games I have made for [Sprig](https://spri
 
 This is the first game I made for Sprig, in summer of 2024. It's a 2-player splatoon-style turf war game, where you and another player have 60 seconds to cover as much of the arena as possible!
 
-[<img src="https://github.com/gusruben/sprig/raw/main/Hue_Havoc.png">](https://sprig.hackclub.com/Hue_Havoc)
+[<img src="https://github.com/gusruben/sprig/raw/main/Hue_Havoc.png">](https://sprig.hackclub.com/gallery/Hue_Havoc)
 
-> [Play here!](https://sprig.hackclub.com/Hue_Havoc)
+> [Play here!](https://sprig.hackclub.com/gallery/Hue_Havoc)
 
 ## Monster Mayhem
 
 Monster Mayhem was made over the course of a few days for the 2024 Sprig Halloween Jam (it [won first place](https://cloud-823i7p2mz-hack-club-bot.vercel.app/0image.png))! It's a Halloween themed whack-a-mole game with some pretty nice art, if I do say so myself. 
 
-[<img src="https://github.com/gusruben/sprig/raw/main/MonsterMayhem.png">](https://sprig.hackclub.com/MonsterMayhem)
+[<img src="https://github.com/gusruben/sprig/raw/main/MonsterMayhem.png">](https://sprig.hackclub.com/gallery/MonsterMayhem)
 
-> [Play here!](https://sprig.hackclub.com/MonsterMayhem)
+> [Play here!](https://sprig.hackclub.com/gallery/MonsterMayhem)
 
 <br>
 
