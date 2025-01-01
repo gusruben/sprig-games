@@ -12,7 +12,7 @@ This is the first game I made for Sprig, in summer of 2024. It's a 2-player spla
 
 ## Monster Mayhem
 
-Monster Mayhem was made over the course of a few days for the 2024 Sprig Halloween Jam (it [won first place](https://cloud-823i7p2mz-hack-club-bot.vercel.app/0image.png))! It's a Halloween themed whack-a-mole game with some pretty nice art, if I do say so myself. 
+Monster Mayhem was made over the course of a few days for the 2024 Sprig Halloween Jam (it [won first place](https://cloud-823i7p2mz-hack-club-bot.vercel.app/0image.png))! It's a Halloween themed whack-a-mole game with some pretty nice art, if I do say so myself. Music made with the help of [@RuadhanKM](https://github.com/ruadhanKM/)!
 
 [<img src="https://github.com/gusruben/sprig/raw/main/MonsterMayhem.png">](https://sprig.hackclub.com/gallery/MonsterMayhem)
 
